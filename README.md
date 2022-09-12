@@ -16,15 +16,15 @@
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S-N-O-R-L-A-X&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhuba-Ahhh&theme=dark&hide_border=true" />
 </div>
 <br>
 
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=S-N-O-R-L-A-X&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-N-O-R-L-A-X&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=zhuba-Ahhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuba-Ahhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
 </div>
 <br>
  
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=S-N-O-R-L-A-X&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=zhuba-Ahhh&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
